@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @spectacle-cat 👓🐱
-- 👀 I’m making interactive chat games for twitch
-- 🌱 I know Ruby on Rails, but I'm learning elixir
-- 💞️ I’m looking to collaborate on ideas...
+- 👀 I’m making a spectacle with too many interests (relatable?)
+- 🌱 I know Ruby on Rails, but am always learning art / music / writing
 - 📫 How to reach me https://twitter.com/SpectacleCat
-- 📺 You can watch me straming coding during the week and games on the weekend at https://www.twitch.tv/spectacle_cat
+- 📺 You can watch me streaming https://www.twitch.tv/spectacle_cat things change often between games / coding / art
 
 <!---
 spectacle-cat/spectacle-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
