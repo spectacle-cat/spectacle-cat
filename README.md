@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @spectacle-cat 👓🐱
 - 🛤️ Worked with Ruby on Rails for a long time
 - ✨ DragonRuby side projects incoming!
-- 📫 spec@omg.lol or https://twitter.com/SpectacleCat 
+- 📫 spectaclecat@proton.me or https://twitter.com/SpectacleCat 
